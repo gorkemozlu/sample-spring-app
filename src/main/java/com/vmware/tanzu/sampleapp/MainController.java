@@ -1,4 +1,4 @@
-package com.example.servingwebcontent;
+package com.vmware.tanzu.sampleapp;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
